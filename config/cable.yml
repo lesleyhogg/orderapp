@@ -6,5 +6,5 @@ test:
 
 production:
   adapter: redis
-  url: redis://localhost:6379/1
+  url: redis://redistogo:46bba9cf2b1090c5ad892428f5931a9b@spinyfin.redistogo.com:11029/
   channel_prefix: orderapp_production
