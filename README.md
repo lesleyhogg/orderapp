@@ -7,4 +7,4 @@ See the app in action: https://lesleyhogg-orderapp.herokuapp.com/
 Rails version: 5.1.4
 
 Added to the tut:
-* gem 'redis'
+* gem 'pg' (using postgresql instead of sqlite3 and redis)
