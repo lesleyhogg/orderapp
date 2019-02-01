@@ -2,7 +2,7 @@
 
 This is a Ruby on Rails ActionCable and websockets order app based on the tutorial by Melvin Ch'ng: https://melvinchng.github.io/rails/ActionCable.html
 
-See the app in action: https://lesleyhogg-orderapp.herokuapp.com/
+See the app in action (open in two separate browser windows to see realtime updates): https://lesleyhogg-orderapp.herokuapp.com/
 
 Rails version: 5.1.4
 
